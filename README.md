@@ -1,2 +1,2 @@
 # git_github_demo
-class demo on git &amp; github
+Intro class demo on git &amp; github
